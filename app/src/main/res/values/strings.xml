@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">GenioDaSorte</string>
+    <string name="title_activity_mega">MegaActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_quina">QuinaActivity</string>
+    <string name="title_activity_loto_facil">LotoFacilActivity</string>
+    <string name="title_activity_loto_mania">LotoManiaActivity</string>
+    <string name="title_activity_time_mania">TimeManiaActivity</string>
+    <string name="title_activity_dupla_sena">DuplaSenaActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
